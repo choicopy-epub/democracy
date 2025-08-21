@@ -1,4 +1,4 @@
-![Ark](https://github.com/choicopy-epub/Project-Ark/blob/main/static/images/democracy_cover.jpg)
+![democracy](https://github.com/choicopy-epub/democracy/blob/main/static/images/democracy_cover.jpg)
 
 # 프로젝트 구성
 [프롤로그](https://github.com/choicopy-epub/democracy/prolog.md)
