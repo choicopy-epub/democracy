@@ -1,22 +1,22 @@
 ![democracy](https://github.com/choicopy-epub/democracy/blob/main/static/images/democracy_cover.jpg)
 
 # 프로젝트 구성
-[프롤로그](https://github.com/choicopy-epub/democracy/prolog.md)
+[프롤로그](https://github.com/choicopy-epub/democracy/blob/main/prolog.md)
 
 
-[1.민주주의, 기초 다시 세우기](https://github.com/choicopy-epub/democracy/1.democracy_foundation.md)
+[1.민주주의, 기초 다시 세우기](https://github.com/choicopy-epub/democracy/blob/main/1.democracy_foundation.md)
 
 
-[2.민주주의의 엔진실 들여다보기](https://github.com/choicopy-epub/democracy/2.democracy_engine.md)
+[2.민주주의의 엔진실 들여다보기](https://github.com/choicopy-epub/democracy/blob/main/2.democracy_engine.md)
 
 
-[3.민주주의, 폭풍우를 만나다](https://github.com/choicopy-epub/democracy/3.democracy_danger.md)
+[3.민주주의, 폭풍우를 만나다](https://github.com/choicopy-epub/democracy/blob/main/3.democracy_danger.md)
 
 
-[4.다음 장을 열다](https://github.com/choicopy-epub/democracy/4.next_chapter.md)
+[4.다음 장을 열다](https://github.com/choicopy-epub/democracy/blob/main/4.next_chapter.md)
 
 
-[에필로그 : 더 나은 민주주의를 향한 끝나지 않는 항해](https://github.com/choicopy-epub/democracy/epilogue.md)
+[에필로그 : 더 나은 민주주의를 향한 끝나지 않는 항해](https://github.com/choicopy-epub/democracy/blob/main/epilogue.md)
 
 
 # 책소개
