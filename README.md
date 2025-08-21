@@ -1,3 +1,24 @@
+![Ark](https://github.com/choicopy-epub/Project-Ark/blob/main/static/images/democracy_cover.jpg)
+
+# 프로젝트 구성
+[프롤로그](https://github.com/choicopy-epub/democracy/prolog.md)
+
+
+[1.민주주의, 기초 다시 세우기](https://github.com/choicopy-epub/democracy/1.democracy_foundation.md)
+
+
+[2.민주주의의 엔진실 들여다보기](https://github.com/choicopy-epub/democracy/2.democracy_engine.md)
+
+
+[3.민주주의, 폭풍우를 만나다](https://github.com/choicopy-epub/democracy/3.democracy_danger.md)
+
+
+[4.다음 장을 열다](https://github.com/choicopy-epub/democracy/4.next_chapter.md)
+
+
+[에필로그 : 더 나은 민주주의를 향한 끝나지 않는 항해](https://github.com/choicopy-epub/democracy/epilogue.md)
+
+
 # 책소개
 "민주주의가 뭔가요?" 이 단순한 질문에 당신은 자신 있게 답할 수 있습니까?
 여기, 인류의 가장 위대한 발명품이자 가장 뜨거운 논쟁거리인 '민주주의'의 본질을 파헤치기 위해 아주 특별한 대담이 시작된다. 날카로운 통찰력을 지닌 한 명의 인간 작가와, 인류의 모든 지식을 학습한 AI가 마주 앉았다.
@@ -46,7 +67,7 @@ v 버그 미발견
 gemini.google.com Pro 2.5
 
 # 버전 및 업데이트 정보
-v 0.1 (2025-08-21) 
+v 1 (2025-08-21) 
 
 # FAQ
 2025-08-21 현재 문의는 lsychh@gmail.com 메일로 가능

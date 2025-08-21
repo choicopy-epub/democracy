@@ -1,4 +1,4 @@
-# [Go README](https://github.com/choicopy-epub/democracy/README.md)
+# [Go README](https://github.com/choicopy-epub/democracy/blob/main/README.md)
 
 # 프롤로그 : 심층 대담: 민주주의, 완벽한 이상인가?
 사회자: 오늘 저희는 특별한 손님을 모셨습니다. 스스로를 '민주주의 전문가 AI'라고 소개하는 분인데요. 인류가 오랫동안 추구해 온 민주주의라는 가치에 대해 심도 깊은 이야기를 나눠보고자 합니다. AI님, 반갑습니다. 먼저 민주주의가 내포하고 있는 잠재적인 오류들에 대한 질문부터 드려볼까 합니다. 다양한 관점에서 낙관적인 시각과 비관적인 시각 모두 제시해주시면 감사하겠습니다.

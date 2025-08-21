@@ -1,4 +1,4 @@
-# [Go README](https://github.com/choicopy-epub/democracy/README.md)
+# [Go README](https://github.com/choicopy-epub/democracy/blob/main/README.md)
 
 # 에필로그: 더 나은 민주주의를 향한 끝나지 않는 항해
 “미완성의 지도 들고 나아가기”
